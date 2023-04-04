@@ -1,0 +1,15 @@
+{
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.quoteStyle": "single",
+    "editor.detectIndentation": false,
+    "typescript.format.semicolons": "remove",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": [
+        "source.addMissingImports",
+        "source.organizeImports"
+    ],
+    "gitlens.currentLine.enabled": true,
+    "gitlens.hovers.currentLine.over": "line",
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true
+}
